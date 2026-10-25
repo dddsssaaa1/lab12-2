@@ -30,7 +30,7 @@
  -->
 <!-- Title: G Pages: 1 -->
 <svg width="668pt" height="889pt"
- viewBox="0.00 0.00 668.10 888.60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>
+ viewBox="0.00 0.00 668.10 888.60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:c2pa="http://c2pa.org/manifest"><metadata><>
 ## 2. Реализация программы
 
 ```c
