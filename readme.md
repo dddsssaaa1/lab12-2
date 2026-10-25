@@ -22,7 +22,7 @@
 12. **Конец**
 
 ### Блок-схема
-![Блок-схема программы](flowchart.svg)<img width="891" height="1185" alt="flowchart" src="https://github.com/user-attachments/assets/ea19603a-a266-49f8-9795-a1e1180f15f1" />
+![](flowchart.svg)<img width="891" height="1185" alt="flowchart" src="https://github.com/user-attachments/assets/ea19603a-a266-49f8-9795-a1e1180f15f1" />
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
