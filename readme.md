@@ -39,7 +39,7 @@
 #include <locale.h>
 
 int main() {
-    setlocale(LC_ALL, "RU.UTF8");
+    setlocale(LC_ALL, ".UTF8");
 
     struct tm *mytime;
     time_t t;
